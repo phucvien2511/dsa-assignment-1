@@ -1,0 +1,7 @@
+iconst 3\n
+iconst 2\n
+imul
+top
+istore a
+iload a
+top
