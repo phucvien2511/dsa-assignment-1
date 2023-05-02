@@ -22,8 +22,8 @@ void test(string filename) {
 Main function
 */
 int main(int argc, char **argv) {
-    test("test_example.txt");
-    /*test("test000.txt");
+    //test("test_example.txt");
+    test("test000.txt");
     cout << "-----\n";
     test("test001.txt");
     cout << "\n-----\n";
@@ -31,6 +31,6 @@ int main(int argc, char **argv) {
     cout << "\n-----\n";
     test("test003.txt");
     cout << "\n-----\n";
-    test("test004.txt");*/
+    test("test004.txt");
     return 0;
 }
